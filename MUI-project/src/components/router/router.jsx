@@ -11,6 +11,7 @@ function router() {
                 <Routes>
                     <Route>
                         <Route path='/' element={<Home />} />
+                        <Route path='/React-sample-project' element={<Home />} />
                     </Route>
                 </Routes>
                 <Footer />
